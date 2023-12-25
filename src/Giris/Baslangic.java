@@ -13,7 +13,7 @@ public class Baslangic {
         System.out.println(alan);
         System.out.println(cevre);
 
-        ghfdsadasdasdasdas
+
 
     }
 }
