@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DaireA/DaireA.iml" filepath="$PROJECT_DIR$/DaireA/DaireA.iml" />
       <module fileurl="file://$PROJECT_DIR$/DikUcgen/DikUcgen.iml" filepath="$PROJECT_DIR$/DikUcgen/DikUcgen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/KdvTutari/KdvTutari.iml" filepath="$PROJECT_DIR$/KdvTutari/KdvTutari.iml" />
